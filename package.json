@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "got": "^9.3.0",
+    "vk-call": "^2.1.0"
+  }
+}

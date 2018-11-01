@@ -1,2 +1,4 @@
-*.json
+keys.json
+data.json
+cities.json
 node_modules
